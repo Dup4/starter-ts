@@ -1,18 +1,18 @@
 {
-    "name": "name",
+    "name": "@dup4/starter-ts",
     "version": "0.0.0",
     "packageManager": "pnpm@6.32.3",
     "description": "",
     "keywords": [],
-    "homepage": "https://github.com/Dup4/[name]#readme",
+    "homepage": "https://github.com/Dup4/starter-ts#readme",
     "bugs": {
-        "url": "https://github.com/Dup4/[name]/issues"
+        "url": "https://github.com/Dup4/starter-ts/issues"
     },
     "license": "MIT",
     "author": "Dup4 <lyuzhi.pan@gmail.com>",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Dup4/[name].git"
+        "url": "git+https://github.com/Dup4/starter-ts.git"
     },
     "main": "./dist/index.cjs",
     "module": "./dist/index.mjs",
