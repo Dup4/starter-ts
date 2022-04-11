@@ -39,6 +39,8 @@
     "scripts": {
         "build": "rimraf dist && unbuild",
         "dev": "unbuild --stub",
+        "start": "esno src/index.ts",
+        "test": "vitest",
         "lint": "run-p lint:*",
         "lint:build": "tsc --noEmit",
         "lint:eslint": "eslint .",
@@ -47,9 +49,7 @@
         "format:eslint": "eslint --fix .",
         "format:style": "prettier --write src/*.ts src/**/*.ts",
         "prepublishOnly": "nr build",
-        "release": "bumpp --commit --push --tag && pnpm publish",
-        "start": "esno src/index.ts",
-        "test": "vitest"
+        "release": "bumpp --commit --push --tag && pnpm publish"
     },
     "devDependencies": {
         "@babel/types": "^7.17.0",
