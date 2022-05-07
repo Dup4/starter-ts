@@ -2,6 +2,7 @@
 
 [![Test](https://github.com/Dup4/starter-ts/actions/workflows/test.yml/badge.svg)](https://github.com/Dup4/starter-ts/actions/workflows/test.yml)
 [![Lint](https://github.com/Dup4/starter-ts/actions/workflows/lint.yml/badge.svg)](https://github.com/Dup4/starter-ts/actions/workflows/lint.yml)
+[![GitHub release](https://img.shields.io/github/release/Dup4/starter-ts.svg)](https://GitHub.com/Dup4/starter-ts/releases/)
 
 ## Tutorial
 
