@@ -48,7 +48,7 @@
         "format": "run-p format:*",
         "format:eslint": "eslint --fix .",
         "format:style": "prettier --write src/*.ts src/**/*.ts",
-        "prepublishOnly": "nr build",
+        "prepublishOnly": "npm run build",
         "release": "bumpp --commit --push --tag && pnpm publish"
     },
     "devDependencies": {
