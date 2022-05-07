@@ -10,11 +10,10 @@ importers:
       '@typescript-eslint/parser': ^5.18.0
       bumpp: ^7.1.1
       eslint: ^8.13.0
-      esno: ^0.14.1
+      esmo: ^0.14.1
       npm-run-all: ^4.1.5
-      pnpm: ^6.32.6
+      pnpm: ^7.0.0
       prettier: ^2.6.2
-      rimraf: ^3.0.2
       typescript: ^4.6.3
       unbuild: ^0.7.2
       vite: ^2.9.1
@@ -26,11 +25,10 @@ importers:
       '@typescript-eslint/parser': 5.18.0_jzhokl4shvj5szf5bgr66kln2a
       bumpp: 7.1.1
       eslint: 8.13.0
-      esno: 0.14.1
+      esmo: 0.14.1
       npm-run-all: 4.1.5
-      pnpm: 6.32.6
+      pnpm: 7.0.1
       prettier: 2.6.2
-      rimraf: 3.0.2
       typescript: 4.6.3
       unbuild: 0.7.2
       vite: 2.9.1
@@ -195,6 +193,8 @@ packages:
     resolution: {integrity: sha512-vqUSBLP8dQHFPdPi9bc5GK9vRkYHJ49fsZdtoJ8EQ8ibpwk5rPKfvNIwChB0KVXcIjcepEBBd2VHC5r9Gy8ueg==}
     engines: {node: '>=6.0.0'}
     hasBin: true
+    dependencies:
+      '@babel/types': 7.17.0
     dev: true
 
   /@babel/standalone/7.17.9:
@@ -1375,8 +1375,8 @@ packages:
       - supports-color
     dev: true
 
-  /esno/0.14.1:
-    resolution: {integrity: sha512-yDFYw6dGUjCT1qKsdG7WOc/RzIh/qwxUEVZ+ohCltaxBxEFMNqeqbQL9xjRl6Yvdwrfc5OCjUA9JbFmuu/8BKg==}
+  /esmo/0.14.1:
+    resolution: {integrity: sha512-zx48iHEWEzhouF6wXSRbO8+KuDH5QWy30qVk0EE/olYxIA4ZPySfUkqxh7tDUBizUROzdyjWmCdSDJa+3pb+9Q==}
     hasBin: true
     dependencies:
       cross-spawn: 7.0.3
@@ -2144,9 +2144,9 @@ packages:
       pathe: 0.2.0
     dev: true
 
-  /pnpm/6.32.6:
-    resolution: {integrity: sha512-ucrdCw3F/qjjzoR9+UtLXH1jkDqsbinz+hzSz54WQOOPt/F+9uxm8irrO/mdGkmsy844kAX6vsfS85gZLTg+yA==}
-    engines: {node: '>=12.17'}
+  /pnpm/7.0.1:
+    resolution: {integrity: sha512-jDXatNQpx+KYoCg0sSEBj4ryS8dIfo05TkhH5GOyi0ClhmkdmdHr2PgbReQyzZzuQpKWefCAvwOB8PxE1tgQNg==}
+    engines: {node: '>=14.19'}
     hasBin: true
     dev: true
 
