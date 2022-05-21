@@ -11,4 +11,4 @@
 
 ## License
 
-[MIT](./LICENSE) License © 2021 [Dup4](https://github.com/Dup4)
+[MIT](./LICENSE) License © 2022 [Dup4](https://github.com/Dup4)
