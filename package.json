@@ -1,7 +1,7 @@
 {
   "name": "@dup4/starter-ts",
   "version": "0.0.1",
-  "packageManager": "pnpm@7.1.7",
+  "packageManager": "pnpm@7.9.5",
   "description": "",
   "keywords": [],
   "homepage": "https://github.com/Dup4/starter-ts#readme",
@@ -53,19 +53,19 @@
     "release": "bumpp --commit --push --tag && npm publish"
   },
   "devDependencies": {
-    "@babel/types": "^7.18.0",
-    "@types/node": "^17.0.35",
-    "@typescript-eslint/eslint-plugin": "^5.25.0",
-    "@typescript-eslint/parser": "^5.25.0",
-    "bumpp": "^7.1.1",
-    "eslint": "^8.16.0",
+    "@babel/types": "^7.18.13",
+    "@types/node": "^17.0.45",
+    "@typescript-eslint/eslint-plugin": "^5.35.1",
+    "@typescript-eslint/parser": "^5.35.1",
+    "bumpp": "^7.2.0",
+    "eslint": "^8.23.0",
     "esmo": "^0.14.1",
     "npm-run-all": "^4.1.5",
-    "pnpm": "^7.1.7",
-    "prettier": "^2.6.2",
-    "typescript": "^4.6.4",
-    "unbuild": "^0.7.4",
-    "vite": "^2.9.9",
+    "pnpm": "^7.9.5",
+    "prettier": "^2.7.1",
+    "typescript": "^4.8.2",
+    "unbuild": "^0.7.6",
+    "vite": "^2.9.15",
     "vitest": "^0.7.13"
   }
 }
