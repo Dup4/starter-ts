@@ -3,6 +3,9 @@
   "editor.insertSpaces": true,
   "prettier.enable": false,
   "editor.formatOnSave": true,
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
   "typescript.tsdk": "node_modules/typescript/lib",
   "eslint.experimental.useFlatConfig": true,
   "editor.codeActionsOnSave": {
