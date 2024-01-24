@@ -1,7 +1,7 @@
 {
   "name": "@dup4/starter-ts",
   "type": "module",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "packageManager": "pnpm@8.14.3",
   "description": "Typescript Starter",
   "author": "Dup4 <lyuzhi.pan@gmail.com>",
