@@ -9,6 +9,15 @@
 * For the first release of a private package, similar to `@dup4/starter-ts`, you need to use the following command:
   * `pnpm run release --access public`
 
+
+## Sponsors
+
+<p align="center">
+  <a href="https://github.com/sponsors/Dup4">
+    <img src='https://cdn.jsdelivr.net/gh/Dup4/static/sponsors-output/sponsors.svg' alt="Logos from Sponsors" />
+  </a>
+</p>
+
 ## License
 
 [MIT](./LICENSE) License © 2022 - PRESENT [Dup4][dup4]
