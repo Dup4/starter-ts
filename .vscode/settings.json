@@ -1,6 +1,7 @@
 {
   "editor.tabSize": 2,
   "editor.insertSpaces": true,
+  "prettier.enable": false,
   "editor.formatOnSave": true,
   "typescript.tsdk": "node_modules/typescript/lib",
   "eslint.experimental.useFlatConfig": true,
