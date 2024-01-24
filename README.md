@@ -11,7 +11,6 @@
 * For the first release of a private package, similar to `@dup4/starter-ts`, you need to use the following command:
   * `pnpm run release --access public`
 
-
 ## Sponsors
 
 <p align="center">
