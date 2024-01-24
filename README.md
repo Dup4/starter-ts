@@ -11,7 +11,7 @@
 
 ## License
 
-[MIT](./LICENSE) License © 2022 [Dup4][dup4]
+[MIT](./LICENSE) License © 2022 - PRESENT [Dup4][dup4]
 
 [dup4]: https://github.com/Dup4
 [gh-ci-test-badge]: https://github.com/Dup4/starter-ts/actions/workflows/test.yml/badge.svg
