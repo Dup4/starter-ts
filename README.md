@@ -1,6 +1,5 @@
 # starter-ts
 
-[![code style](https://antfu.me/badge-code-style.svg)](https://github.com/antfu/eslint-config)
 [![Test][gh-ci-test-badge]][gh-ci-test]
 [![Lint][gh-ci-lint-badge]][gh-ci-lint]
 [![GitHub release][gh-release-badge]][gh-release]
